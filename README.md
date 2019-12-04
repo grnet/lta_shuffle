@@ -63,3 +63,15 @@ Some such values are
 
 NOTE: Avoid `N > 27`, since local computations `(O(N ^ 2))` are not yet optimized
 and the execution becomes very slow for large values of `N`.
+
+
+Contributors
+------------
+
+Giorgos Korfiatis
+
+Antonis Angelakis
+
+Giorgos Tsoukalas
+
+Foteinos Mergoupis
